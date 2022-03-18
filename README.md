@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Page Title</title>
@@ -10,7 +9,7 @@
 </head>  
 <body>
 
-<h1>RobloxiaCorporation</h1>
+<center><h1>RobloxiaCorporation</h1></center>
 <p>Robloxia Corporation is a newly founded development company, specializing in military assets. We sell everything from kits, to buildings and assets, all for affordable prices.</p>
 
 </body>
